@@ -1,7 +1,4 @@
 carrot
 salad
-<<<<<<< HEAD
 turnip
-=======
-orange
->>>>>>> origin/master
+
